@@ -24,3 +24,5 @@ wikipedia
 langgraph-cli[inmem]
 faiss-cpu
 
+pinecone-client langchain openai
+
